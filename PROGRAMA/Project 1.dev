@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Documents and Settings\Administrador\Escritorio\PROGRAMA\Project 1.dev
+Name=Project 1
+Use_gpp=1
+UnitCount=1
+ResFiles=C:\Documents and Settings\Administrador\Escritorio\PROGRAMA\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-C++\Bin\Mainicon.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile= C:\Dev-C++\Lib\conio.o
+[Unit1]
+FileName=C:\Documents and Settings\Administrador\Escritorio\PROGRAMA\Untitled1.cpp
+FileTime=962560443
